@@ -1,0 +1,11 @@
+#include <iostream>
+int main ()
+{
+    int val;
+
+    std::cout<<"Digite um valor: ";
+    std::cin>> val;
+    std::cout<<"valor = " << val << std::endl;
+
+    return 0;
+}
